@@ -1,7 +1,7 @@
 ---
 name: Olt Bajrami
 neptun: "P3FEII"
-id: ""
+id: "2026-ST-06"
 github: https://github.com/Olti1947/up-project-work
 ---
 # Least Privilege on a Budget: an Agent-Native OS for Low-Cost Hardware
